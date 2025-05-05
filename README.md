@@ -36,7 +36,7 @@ Personal-Financial-Management-Dashboard/
 └── README.md                    # Project documentation
 
 ```
-<details>
+<details><details>
 
 ---
 
