@@ -22,7 +22,7 @@ This Power BI project is a **Personal Financial Management Dashboard** that help
 <details>
 <summary>📁 Click to expand</summary>
 
-''' text 
+```text
 Personal-Financial-Management-Dashboard/
 ├── Dashboard.pbix               # Power BI file
 ├── R-Scripts/
@@ -35,8 +35,8 @@ Personal-Financial-Management-Dashboard/
 │   └── Brief Description.pdf    # Visual preview of the dashboard
 └── README.md                    # Project documentation
 
-</details> '''
-
+```
+<details>
 
 ---
 
