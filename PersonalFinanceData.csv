@@ -1,0 +1,214 @@
+"Year","MonthNumber","Day","MonthName","Transaction_Type","Description","Category","Amount"
+2023,1,3,"January","Income","Monthly Salary","Salary",80000
+2023,1,25,"January","Expense","Expense for Utilities","Utilities",2566
+2023,1,9,"January","Expense","Expense for Groceries","Groceries",8361
+2023,1,3,"January","Expense","Expense for Newspaper","Newspaper",3607
+2023,1,8,"January","Expense","Expense for Shopping","Shopping",2124
+2023,1,26,"January","Expense","Expense for Gym Membership","Gym Membership",4203
+2023,1,7,"January","Expense","Expense for Rent","Rent",8759
+2023,1,10,"January","Expense","Expense for OTT Subscription","OTT Subscription",8286
+2023,1,9,"January","Expense","Expense for Dining","Dining",6854
+2023,2,3,"February","Income","Monthly Salary","Salary",80000
+2023,2,21,"February","Expense","Expense for Rent","Rent",3703
+2023,2,27,"February","Expense","Expense for Utilities","Utilities",4600
+2023,2,6,"February","Expense","Expense for OTT Subscription","OTT Subscription",6819
+2023,2,25,"February","Expense","Expense for Dining","Dining",4915
+2023,2,2,"February","Expense","Expense for Entertainment","Entertainment",10551
+2023,2,5,"February","Expense","Expense for Newspaper","Newspaper",2818
+2023,2,8,"February","Expense","Expense for Groceries","Groceries",6593
+2023,2,12,"February","Expense","Expense for Gym Membership","Gym Membership",9991
+2023,3,5,"March","Income","Monthly Salary","Salary",80000
+2023,3,22,"March","Expense","Expense for Rent","Rent",7902
+2023,3,7,"March","Expense","Expense for Gym Membership","Gym Membership",5512
+2023,3,16,"March","Expense","Expense for Utilities","Utilities",3308
+2023,3,17,"March","Expense","Expense for Newspaper","Newspaper",4521
+2023,3,22,"March","Expense","Expense for Dining","Dining",8408
+2023,3,18,"March","Expense","Expense for OTT Subscription","OTT Subscription",6115
+2023,3,17,"March","Expense","Expense for Shopping","Shopping",9509
+2023,3,2,"March","Expense","Expense for Entertainment","Entertainment",3232
+2023,4,4,"April","Income","Monthly Salary","Salary",80000
+2023,4,25,"April","Expense","Expense for Dining","Dining",11171
+2023,4,14,"April","Expense","Expense for Shopping","Shopping",8238
+2023,4,3,"April","Expense","Expense for OTT Subscription","OTT Subscription",6339
+2023,4,14,"April","Expense","Expense for Utilities","Utilities",3809
+2023,4,7,"April","Expense","Expense for Rent","Rent",11372
+2023,4,3,"April","Expense","Expense for Entertainment","Entertainment",5288
+2023,4,23,"April","Expense","Expense for Groceries","Groceries",2980
+2023,5,2,"May","Income","Monthly Salary","Salary",80000
+2023,5,19,"May","Expense","Expense for Dining","Dining",5563
+2023,5,15,"May","Expense","Expense for Gym Membership","Gym Membership",2197
+2023,5,24,"May","Expense","Expense for Utilities","Utilities",3660
+2023,5,17,"May","Expense","Expense for Groceries","Groceries",9217
+2023,5,23,"May","Expense","Expense for Shopping","Shopping",4058
+2023,5,11,"May","Expense","Expense for Newspaper","Newspaper",4125
+2023,5,7,"May","Expense","Expense for Entertainment","Entertainment",2756
+2023,5,15,"May","Expense","Expense for OTT Subscription","OTT Subscription",4182
+2023,5,23,"May","Expense","Expense for Rent","Rent",8285
+2023,6,2,"June","Income","Monthly Salary","Salary",80000
+2023,6,9,"June","Expense","Expense for OTT Subscription","OTT Subscription",6625
+2023,6,7,"June","Expense","Expense for Utilities","Utilities",8680
+2023,6,2,"June","Expense","Expense for Groceries","Groceries",4480
+2023,6,16,"June","Expense","Expense for Dining","Dining",7632
+2023,6,13,"June","Expense","Expense for Shopping","Shopping",4102
+2023,6,19,"June","Expense","Expense for Newspaper","Newspaper",6725
+2023,6,24,"June","Expense","Expense for Entertainment","Entertainment",5824
+2023,6,20,"June","Expense","Expense for Gym Membership","Gym Membership",4103
+2023,7,4,"July","Income","Monthly Salary","Salary",80000
+2023,7,12,"July","Expense","Expense for Newspaper","Newspaper",4748
+2023,7,22,"July","Expense","Expense for Shopping","Shopping",4765
+2023,7,17,"July","Expense","Expense for Gym Membership","Gym Membership",8262
+2023,7,10,"July","Expense","Expense for Entertainment","Entertainment",5677
+2023,7,27,"July","Expense","Expense for Rent","Rent",5263
+2023,7,20,"July","Expense","Expense for OTT Subscription","OTT Subscription",10433
+2023,7,11,"July","Expense","Expense for Groceries","Groceries",3358
+2023,8,1,"August","Income","Monthly Salary","Salary",80000
+2023,8,16,"August","Expense","Expense for Newspaper","Newspaper",3568
+2023,8,23,"August","Expense","Expense for Shopping","Shopping",4520
+2023,8,1,"August","Expense","Expense for Dining","Dining",3128
+2023,8,8,"August","Expense","Expense for OTT Subscription","OTT Subscription",7558
+2023,8,8,"August","Expense","Expense for Groceries","Groceries",2814
+2023,8,10,"August","Expense","Expense for Utilities","Utilities",7359
+2023,8,25,"August","Expense","Expense for Rent","Rent",5566
+2023,8,8,"August","Expense","Expense for Gym Membership","Gym Membership",6373
+2023,8,18,"August","Expense","Expense for Entertainment","Entertainment",2946
+2023,9,5,"September","Income","Monthly Salary","Salary",80000
+2023,9,19,"September","Expense","Expense for Gym Membership","Gym Membership",7698
+2023,9,10,"September","Expense","Expense for OTT Subscription","OTT Subscription",5461
+2023,9,21,"September","Expense","Expense for Newspaper","Newspaper",5563
+2023,9,22,"September","Expense","Expense for Groceries","Groceries",2515
+2023,9,13,"September","Expense","Expense for Dining","Dining",7012
+2023,9,11,"September","Expense","Expense for Entertainment","Entertainment",10441
+2023,9,11,"September","Expense","Expense for Shopping","Shopping",2387
+2023,10,1,"October","Income","Monthly Salary","Salary",80000
+2023,10,10,"October","Expense","Expense for OTT Subscription","OTT Subscription",7001
+2023,10,17,"October","Expense","Expense for Rent","Rent",6219
+2023,10,26,"October","Expense","Expense for Gym Membership","Gym Membership",6606
+2023,10,17,"October","Expense","Expense for Groceries","Groceries",7631
+2023,10,26,"October","Expense","Expense for Entertainment","Entertainment",2190
+2023,10,27,"October","Expense","Expense for Newspaper","Newspaper",2162
+2023,10,21,"October","Expense","Expense for Dining","Dining",6496
+2023,10,7,"October","Expense","Expense for Utilities","Utilities",6407
+2023,11,4,"November","Income","Monthly Salary","Salary",80000
+2023,11,1,"November","Expense","Expense for Gym Membership","Gym Membership",2669
+2023,11,5,"November","Expense","Expense for Entertainment","Entertainment",11754
+2023,11,21,"November","Expense","Expense for Shopping","Shopping",2680
+2023,11,25,"November","Expense","Expense for Groceries","Groceries",5536
+2023,11,8,"November","Expense","Expense for Dining","Dining",10961
+2023,11,23,"November","Expense","Expense for Rent","Rent",8159
+2023,11,25,"November","Expense","Expense for Newspaper","Newspaper",5044
+2023,12,5,"December","Income","Monthly Salary","Salary",80000
+2023,12,7,"December","Expense","Expense for Groceries","Groceries",9784
+2023,12,20,"December","Expense","Expense for Gym Membership","Gym Membership",6148
+2023,12,18,"December","Expense","Expense for OTT Subscription","OTT Subscription",3320
+2023,12,17,"December","Expense","Expense for Shopping","Shopping",7007
+2023,12,1,"December","Expense","Expense for Dining","Dining",9932
+2023,12,2,"December","Expense","Expense for Rent","Rent",7383
+2023,12,17,"December","Expense","Expense for Entertainment","Entertainment",5374
+2024,1,2,"January","Income","Monthly Salary","Salary",80000
+2024,1,6,"January","Expense","Expense for Newspaper","Newspaper",3335
+2024,1,28,"January","Expense","Expense for Rent","Rent",4060
+2024,1,16,"January","Expense","Expense for OTT Subscription","OTT Subscription",8875
+2024,1,16,"January","Expense","Expense for Utilities","Utilities",6067
+2024,1,3,"January","Expense","Expense for Groceries","Groceries",7345
+2024,1,4,"January","Expense","Expense for Dining","Dining",4525
+2024,1,27,"January","Expense","Expense for Gym Membership","Gym Membership",7404
+2024,2,3,"February","Income","Monthly Salary","Salary",80000
+2024,2,11,"February","Expense","Expense for OTT Subscription","OTT Subscription",4085
+2024,2,7,"February","Expense","Expense for Utilities","Utilities",6452
+2024,2,13,"February","Expense","Expense for Gym Membership","Gym Membership",3930
+2024,2,5,"February","Expense","Expense for Groceries","Groceries",7497
+2024,2,11,"February","Expense","Expense for Newspaper","Newspaper",3224
+2024,2,1,"February","Expense","Expense for Rent","Rent",5184
+2024,2,19,"February","Expense","Expense for Entertainment","Entertainment",3646
+2024,2,12,"February","Expense","Expense for Dining","Dining",3064
+2024,2,2,"February","Expense","Expense for Shopping","Shopping",8324
+2024,3,5,"March","Income","Monthly Salary","Salary",80000
+2024,3,20,"March","Expense","Expense for Utilities","Utilities",8662
+2024,3,6,"March","Expense","Expense for Shopping","Shopping",9130
+2024,3,20,"March","Expense","Expense for Rent","Rent",3588
+2024,3,20,"March","Expense","Expense for Groceries","Groceries",5495
+2024,3,9,"March","Expense","Expense for Gym Membership","Gym Membership",8344
+2024,3,16,"March","Expense","Expense for Dining","Dining",6993
+2024,3,8,"March","Expense","Expense for OTT Subscription","OTT Subscription",5420
+2024,4,2,"April","Income","Monthly Salary","Salary",80000
+2024,4,5,"April","Expense","Expense for Groceries","Groceries",2577
+2024,4,4,"April","Expense","Expense for Newspaper","Newspaper",4808
+2024,4,18,"April","Expense","Expense for Utilities","Utilities",9825
+2024,4,1,"April","Expense","Expense for Gym Membership","Gym Membership",4786
+2024,4,16,"April","Expense","Expense for OTT Subscription","OTT Subscription",10947
+2024,4,28,"April","Expense","Expense for Rent","Rent",5740
+2024,4,17,"April","Expense","Expense for Shopping","Shopping",9649
+2024,5,4,"May","Income","Monthly Salary","Salary",80000
+2024,5,16,"May","Expense","Expense for Groceries","Groceries",4240
+2024,5,11,"May","Expense","Expense for Gym Membership","Gym Membership",7787
+2024,5,4,"May","Expense","Expense for Entertainment","Entertainment",7468
+2024,5,24,"May","Expense","Expense for Utilities","Utilities",11839
+2024,5,12,"May","Expense","Expense for Dining","Dining",5857
+2024,5,13,"May","Expense","Expense for Newspaper","Newspaper",7080
+2024,5,10,"May","Expense","Expense for OTT Subscription","OTT Subscription",3295
+2024,6,2,"June","Income","Monthly Salary","Salary",80000
+2024,6,12,"June","Expense","Expense for Groceries","Groceries",1905
+2024,6,19,"June","Expense","Expense for Rent","Rent",6508
+2024,6,27,"June","Expense","Expense for Entertainment","Entertainment",3939
+2024,6,24,"June","Expense","Expense for Utilities","Utilities",7101
+2024,6,27,"June","Expense","Expense for Newspaper","Newspaper",5169
+2024,6,23,"June","Expense","Expense for Dining","Dining",3451
+2024,6,4,"June","Expense","Expense for Shopping","Shopping",6915
+2024,6,24,"June","Expense","Expense for Gym Membership","Gym Membership",2248
+2024,6,28,"June","Expense","Expense for OTT Subscription","OTT Subscription",7120
+2024,7,3,"July","Income","Monthly Salary","Salary",80000
+2024,7,15,"July","Expense","Expense for Newspaper","Newspaper",4647
+2024,7,20,"July","Expense","Expense for Shopping","Shopping",6618
+2024,7,22,"July","Expense","Expense for Entertainment","Entertainment",4683
+2024,7,21,"July","Expense","Expense for Groceries","Groceries",6740
+2024,7,17,"July","Expense","Expense for Utilities","Utilities",4883
+2024,7,24,"July","Expense","Expense for OTT Subscription","OTT Subscription",3927
+2024,7,7,"July","Expense","Expense for Gym Membership","Gym Membership",6994
+2024,7,15,"July","Expense","Expense for Dining","Dining",5591
+2024,8,4,"August","Income","Monthly Salary","Salary",80000
+2024,8,25,"August","Expense","Expense for Dining","Dining",3339
+2024,8,6,"August","Expense","Expense for Shopping","Shopping",8282
+2024,8,20,"August","Expense","Expense for Newspaper","Newspaper",3121
+2024,8,14,"August","Expense","Expense for Utilities","Utilities",8450
+2024,8,14,"August","Expense","Expense for Groceries","Groceries",4576
+2024,8,6,"August","Expense","Expense for Rent","Rent",4917
+2024,8,18,"August","Expense","Expense for OTT Subscription","OTT Subscription",6930
+2024,8,2,"August","Expense","Expense for Gym Membership","Gym Membership",2730
+2024,8,24,"August","Expense","Expense for Entertainment","Entertainment",2143
+2024,9,3,"September","Income","Monthly Salary","Salary",80000
+2024,9,17,"September","Expense","Expense for Gym Membership","Gym Membership",7470
+2024,9,3,"September","Expense","Expense for OTT Subscription","OTT Subscription",4666
+2024,9,28,"September","Expense","Expense for Utilities","Utilities",5896
+2024,9,15,"September","Expense","Expense for Newspaper","Newspaper",7329
+2024,9,20,"September","Expense","Expense for Groceries","Groceries",7955
+2024,9,1,"September","Expense","Expense for Rent","Rent",4438
+2024,9,5,"September","Expense","Expense for Entertainment","Entertainment",2379
+2024,10,3,"October","Income","Monthly Salary","Salary",80000
+2024,10,26,"October","Expense","Expense for Entertainment","Entertainment",3929
+2024,10,23,"October","Expense","Expense for Groceries","Groceries",2505
+2024,10,27,"October","Expense","Expense for Shopping","Shopping",7155
+2024,10,11,"October","Expense","Expense for OTT Subscription","OTT Subscription",3119
+2024,10,22,"October","Expense","Expense for Utilities","Utilities",4944
+2024,10,1,"October","Expense","Expense for Newspaper","Newspaper",6220
+2024,10,22,"October","Expense","Expense for Dining","Dining",7768
+2024,10,24,"October","Expense","Expense for Rent","Rent",9803
+2024,10,19,"October","Expense","Expense for Gym Membership","Gym Membership",4194
+2024,11,2,"November","Income","Monthly Salary","Salary",80000
+2024,11,22,"November","Expense","Expense for Utilities","Utilities",1771
+2024,11,24,"November","Expense","Expense for Rent","Rent",7214
+2024,11,1,"November","Expense","Expense for Shopping","Shopping",3791
+2024,11,12,"November","Expense","Expense for Groceries","Groceries",5718
+2024,11,18,"November","Expense","Expense for OTT Subscription","OTT Subscription",5165
+2024,11,21,"November","Expense","Expense for Entertainment","Entertainment",4063
+2024,11,14,"November","Expense","Expense for Dining","Dining",2827
+2024,11,8,"November","Expense","Expense for Gym Membership","Gym Membership",4403
+2024,11,24,"November","Expense","Expense for Newspaper","Newspaper",5712
+2024,12,4,"December","Income","Monthly Salary","Salary",80000
+2024,12,3,"December","Expense","Expense for OTT Subscription","OTT Subscription",7913
+2024,12,7,"December","Expense","Expense for Dining","Dining",9299
+2024,12,1,"December","Expense","Expense for Rent","Rent",4296
+2024,12,6,"December","Expense","Expense for Groceries","Groceries",1885
+2024,12,13,"December","Expense","Expense for Utilities","Utilities",9323
+2024,12,26,"December","Expense","Expense for Gym Membership","Gym Membership",2990
+2024,12,28,"December","Expense","Expense for Entertainment","Entertainment",2247
+2024,12,26,"December","Expense","Expense for Newspaper","Newspaper",6360
