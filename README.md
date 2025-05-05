@@ -57,7 +57,8 @@ You can view a brief overview of the dashboard in the [Brief Description.pdf](./
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for full details.
+ 
 Feel free to fork, modify, and use it for personal or professional use.
 
 ---
