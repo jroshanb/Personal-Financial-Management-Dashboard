@@ -20,14 +20,17 @@ This Power BI project is a **Personal Financial Management Dashboard** that help
 ## 📂 Project Structure
 
 Personal-Financial-Management-Dashboard/
-├── Fina.pbix # Power BI file
+├── Dashboard.pbix               # Power BI file
 ├── R-Scripts/
-│ └── Personal FM.R # R script for synthetic data
+│   └── Personal_FM.R            # R script for synthetic data
+├── SQL-Scripts/
+│   └── financial_summary.sql    # SQL query for data aggregation
 ├── SampleData/
-│ └── PersonalFinanceData.csv # Sample data (editable)
+│   └── PersonalFinanceData.csv  # Sample data (editable)
 ├── Screenshots/
-│ └──Brief Description.pdf # Visual preview of the dashboard
-└── README.md # Project documentation
+│   └── Brief Description.pdf    # Visual preview of the dashboard
+└── README.md                    # Project documentation
+
 
 
 ---
